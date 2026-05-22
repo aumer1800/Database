@@ -1,0 +1,22 @@
+student-management-backend/
+│
+├── config/
+│   └── db.js
+│
+├── controllers/
+│   └── studentController.js
+│
+├── models/
+│   └── Student.js
+│
+├── routes/
+│   └── studentRoutes.js
+│
+├── middleware/
+│   └── errorMiddleware.js
+│
+├── .env
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── server.js
